@@ -1,3 +1,15 @@
+# React Calculator App
+
+### Project Scope
+
+- This was a tutorial project on how to create a calculator app with `React`.
+
+### Preview
+
+![calculator preview](preview.png)
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

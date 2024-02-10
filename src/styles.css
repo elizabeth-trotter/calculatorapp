@@ -4,7 +4,12 @@
 
 body {
     margin: 0;
-    background: linear-gradient(to right, #00AAFF, #00FF6C);
+    background: linear-gradient(to right, #10212a, #184129);
+    font-family: 'Roboto Mono', monospace;
+}
+
+.bold {
+    font-weight: bold;
 }
 
 .calculator-grid {

@@ -1,8 +1,18 @@
-# React Calculator App
+# React Calculator App &nbsp;&nbsp;<a href="https://calculatorapp-beta.vercel.app/">![Website](https://img.shields.io/website?url=https%3A%2F%2Fcalculatorapp-beta.vercel.app%2F&up_message=ONLINE&up_color=355E3B&down_message=OFFLINE&down_color=8B0000&style=for-the-badge&logo=vercel)
+</a>
 
 ### Project Scope
 
 - This was a tutorial project on how to create a calculator app with `React`.
+
+**What I Learned:**
+***useReducer***
+`useReducer` is a React Hook that lets you add a reducer to your component
+```
+const [state, dispatch] = useReducer(reducer, initialArg, init?)
+```
+- Benefit of using useReducer vs. useState
+    - useReducer hook can handle more complex states
 
 ### Preview
 
